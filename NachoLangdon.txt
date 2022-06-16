@@ -1,52 +1,28 @@
 <span id="a">nacho@langdon</span>:<span id="b">~</span><span id="c">$</span> cd nacholangdon/about_me
 <span id="a">nacho@langdon</span>:<span id="b">~/nacholangdon/about_me</span><span id="c">$</span> cat nacholangdon.txt<br>
 
-XXXSSS%%%%%%%%%%%t%%t%%%t%%t%%%%%%%%%%%%%%%%%%%%%%%%%%%%S%%S%%S%SS%SSSSSSSSSSXSSXSXSXSXXXXXXXXX@X@X@
-XXSXSS%%%%%%%t%t%%t%%t%t%%t%%%%%%%%%%%%%%%%%%%%%%%%S%S%S%SS%SSSSSSSSSSSSSSXXSXXSXXXXXXXXXXXXX@XX@X@@
-XSSSS%%%%%t%t%%%t%%t%%t%%t%%t%%t%%%%%%%%%%%%%%%%SSS%SXSSSSSSSSSSSSSSXSXXXXXXXXX@XXXXXXXXXX@X@X@@X@X@
-SSSS%%%%%t%%%t%t%%t%t%%t%%t%%t%%%%%%%%%%%%%%%%SSS%%8@8St;%XSSXSSXXX@@@@888@88@8@@@@@@X@X@XX@X@X@@@@@
-SSSS%%%%%%t%t%%%t%%%%t%%t%%%%%%%%%%%%t%%%%%S%S%8:%;88SX; @SSXX@@8888888888888888888@@@@@@@@X@@X@@@@@
-SSSS%%%%%%%t%%t%%t%t%%t%%t%t%%%%%%%t%%%%%%S%St:XX.  @ :@%X@8X88@@XXXXXXXX@@@@888888888@@@@@@@@@@@@@@
-SSSS%%%%%t%%t%%t%%t%t%%t%%%%%%%%%%%%%%%%S%SStSt%8%t%: t%SSX8S@%%%%%%%%SSSSXSX@@888888888@@@@@X@@@@@@
-SSSSS%%%%%t%%t%%t%%%%t%%t%t%t%%%%t%%%%%%SSSXt8@.;t:.:.:tX@S:@.%;ttttt%t%%%%SSSX@8888888888@@@@@@@@@@
-SSSS%%%%%%%t%%t%%t%t%%t%%%t%%%%%%%%%%S%S%SSSS 8t.:t;;::X888;%tt:;;;t;ttt%t%%%%SS@8888888888@@@8@@@@@
-SSSS%%%%%t%%%t%%t%%%t%%t%t%%t%%%%%%%%%S%SSSSS ;@  @.;8 %8tS 8%t::;;;;ttttttt%%%%S@888888888@@@@8@@@8
-SSSS%%%%%%t%%%t%%t%t%%t%%%t%%%%%%%%%%%%S%SSSX . X 8.:@%SS@ 8Xt:.:::;;;;ttttttt%SS@@888888888@8@@@@@@
-SSSS%%%%%%%t%t%%t%%%t%%t%%%%%%%%%%%%%%%SSSXS@ttS%%;%.8SSX8@@;8;:.::::;;;;;tttt%%XX8888888888@@8@8@8@
-SSS%S%%%%t%%t%%t%%t%%t%%t%t%%%%%t%%%%%S%SSXSX.tXX;:S @88@88@ 8. ...::;;;;;t;ttt%SX@8888888888@@8@@88
-SSSS%%%%%%t%%t%%t%%t%%t%%%%%%%%%%%%%%%SSSSSS8;.St:t%@  888XS8X   ..::::;;;;t;tttSX@@88888888888@8@@8
-SSSS%%%%%t%%t%%t%%t%%t%%t%%%%%t%%%%%SS%SSXXXX8.:;8%S8@  XS 8:: .  ...::::;;;;;t%SX@8888888888@8@8@8@
-XSSSS%%%%%%t%%t%%t%%t%%t%%%%t%%%%%%S%SSSSSXX@X;;::;t888S   tS;. .  ...:::;;;;;t%SX@@88888888888@8@88
-XSSSS%%%%%%%t%%%%%%t%%%%%%%%%%%%%%%%SSSSSXXX@X8XS: :X8S  .S8%;...   ...::::;;;tSS@@88888888888888888
-XXSSS%%%%%%%%%%%%t%%%%%%%%%%%%%%%%SSSSSXXXX@@88.8X8@  X@Xt@8t: .:.   ...::;;t%%XX@888888888888888888
-XXSSSS%%%%%%%%%%%%%%%%%%%%%%%%%%%S%SSSSXXX@88X8..8  X88@;.SX. .;:...  ...:;t%SS@@8888888888888888888
-XXSXSSS%%%%%%%%%%%%%%%%%%t%%%%%%SSSSSXXXXX@8: X;..t@X.t; XXX8%:;;::.   ..:;%%SS@@8888888888888888888
-XXXSSS%%%%%%%%t%%%%%%%%t%%%%%SSSSSXS@@ 8 :@::;@@:..t@X 8X @%X.8t X;..:. ..::;tSSX@888888888888888888
-XXXXSSS%%%%%t%%%%%%%%%%%%%S%SSSSS%X@8..:;:::::...S.:tt.888::.. ...Xt@  : .:;;;t%SSX@@888888888888888
-@XXXXSSS%%%%%%%%%%%%%%%SS%S%SSSSS@8:;;;;::..:..  .;@@888S:..     . ..@.8:. .:;tt%%SSX@@8888888888888
-@@@XXXSS%S%S%%%%S%%S%SS%SSSSXSXX :t%;;::......   ...    ..              8t .  ..:;t%%SXX@88888888888
-@@@XXXSSS%S%SSS%SS%SSSSSSSSXS@tX:%t;;:..                               ..S :.   ...:;t%SSXX@88888888
-@@@@XXXSSSSSSSSSSSSSSSSSXSXXXX8@;t;;:.                                 ...@ :..   ...::;%%SSX@@88888
-88@@@@XXXSSSSSSSSSSXXXXXXXXX@%t:;t::.                                   . Xt::...     ...;;%%SXX@@88
-8888@@@XXXXSXXXXXXSXXXXXXX@@@X;:;;:.                                       @.;::...     ..:;tt%SS@@@
-88888@@@XXXXXXXXXXXXXX@X@@@@8@X.;:..                                     . .:;;::.:...    ..:;t%%SXX
-8888888@@@X@X@XX@@@@@@@@@@@8@%X;t:...                                      Xt;;;:::.....   ..:;;t%SS
-88888888@@8@@@@@@@@@@@@@@888S :;:..  .                                      S:t;:;:::.....   .::;tt%
-8888888888888@8@8@8@88888888@S:;X8. 8@X..                                 . :;t;;;::::......  .::;t%
-88888888888888888888888888888;: .t@tSS  ;..                               . :8:t;;;:::::...... ..:;;
-@888888888888888888888888888S:.:S%.X@8S t                             :X@X;;:8ttt;;;;;:::.:.:.. ..::
-@@88888888888888888888888888S::;S.X88    @.                       S8S;:tSX88:tSttt;;;;:::.::.... ..:
-X@X@8888@8888888888888888888t :.%8S@ X   .S             .:;@@X:;X;8...:%X88@@t%ttt;t;;t:;:::::....  
-XXXX@@@@88888888888888888888t:. tS%XS@88S ;8X%:;;:;SX8S S@8SX8@ S  .::;%@88X@X%%%t;;tt;;;;;::::...  
-SSXXX@@@@8888888888888888@@@t:  .:;%tX@88XX8XXSXXX8X88888@@@888@S .@:;%X88@SS@S%%%tt;;;;;:;;:;::....
-SSSSXXXXX@8@88888@888@@@X@XXt;. .:%XXSX888888888@8888@8@@8888@%   X 8888@S S XSS%%%ttttt;;;;;::::::.
-S%SSSSSXXX@@@@@@@@@@@@XXXXXS%::..;;%%t%%SX888888@8XS XSS X S       XX88@SS X XSS%%%t%tttt;t;;;;;::::
-%S%SSSSSXXXXXXX@@X@XXXXXXSSSS.;:.:;t%%SS@8@@XXX S     :;S888: 8@8888@XXS S  @8SS%%%t%%ttttt;;t;;;:;;
-%%%%%%SS%SSSSXSXXXSXSXSSSS%%%.;:t%SX@@888@@X  %     t888St  %@XSSS S % S  S S@SSS%S%%%%t%ttt;t;;;;;;
-tttt%%%%%SSSSSSSSSSSSSS%%%%tttttt8888SX88@X X S  ;888: 8XXX8@X8XXX@SS S 8S  @XXXSS%%%%%ttttt;t;t;t;t
-ttttttt%%%%%%%%%%S%S%%%%tttt;;.;8888Xtt;...:%88888%t: X XXSXXSXXSSXSSSX@SX  8SXXSSS%%%%%ttt;t;;;;;;;
-;;;;;tttttttt%t%t%t%tttttt;;::.;8            .    :%@S;:             S S   S@@@XSSSSS%%%tt;;;;;:;:;:
-:;:;;:;;;;;t;tt;ttt;t;t;;::... :X                 .:.    ;tX;XSSXSXX@ 8SXX@88@@XXXSSSS%S%t;;::::::.:
+XXS%%%%%%t%%t%%%%%%%%%%%%%S%%S%SSSSSSSSXSXXSXXXX@X
+XS%%%%t%t%%t%%t%%%%%%%%%%S@S%%SSSSXXX@XX@XXXX@X@X@
+SS%%%t%%%t%%t%%%%%%%%St:  :SS@X88888@888888@@@@@@@
+SS%%%%t%t%%t%%%%%%%%StSS;t.t% XXt%%%SSX@88888@@@@@
+SSS%%t%%%t%%t%%%%%%%S;:S: .88  S;;ttt%%S@8888@@@@@
+SS%%%%t%%%t%%t%%%%%SS% .t t  8 t.:;;ttt%X@8888@8@@
+SS%%%t%t%t%%t%%%%%%SSS@; t8S8@X ..::;;ttX@8888@8@8
+SSS%%%%%t%%t%%%%%%SSSXX.::8% 8S ...::;;tX@888888@8
+XS%%%%t%%%%%%%%%%%SSX@X;8@ .S %.. ..:;t%@888888888
+XXS%%%%%%%%%%%%%S%S8%; S:S   8 @t.  .;%X@888888888
+XXX%%%%%%%%%%SS%S X:...:X;::@X..:8%S..;t%X@8888888
+@XXSS%%S%%SSSSS8@.::....      . . ..; ..:;%X@88888
+@@@XSSSSSSSXS@t8 :..                .8 . ..:t%X@88
+88@@XXXXXXX@@@88 .                   8:;...  :;%SX
+8888@@@X@@@@@X;..:;..                :%:;:..  .:tS
+88888888888888;;@@8X.               ..  ;::... .:t
+@8888888888888t.%XX S            ;%@S t8;;;;::.. :
+XX@@888888888@. t@88 .@88@tt.SS :@ %8X8%ttt;:;::..
+SSXX@@8888@@X@.:.SXX@88888@@888 .:88X 8%%ttt;;;:..
+%SSSXXXX@X@XSX:::tSS88XS   :SS 8X 8X S@%S%ttt;;;;;
+ttt%%SSSSS%S%t;:8  X%  :tS% S@@XXX XX 8XS%%%ttt;;;
+;;;;t;tttttt;:.;%.....   .%8@@@XSS S S@XXSS%t;;:::
 
 Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina.<br />Right now I'm working as a Senior Angular Developer at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from Mar del Plata.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
 
