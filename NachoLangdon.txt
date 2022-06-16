@@ -9,7 +9,7 @@
 ██║░╚███║██║░░██║╚█████╔╝██║░░██║╚█████╔╝██╗███████╗██║░░██║██║░╚███║╚██████╔╝██████╔╝╚█████╔╝██║░╚███║
 ╚═╝░░╚══╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═════╝░░╚════╝░╚═╝░░╚══╝</span><br>
 
-Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina.<br />Right now I'm working as a Senior Angular Developer at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from Mar del Plata.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
+Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina. Currently working as a Senior Angular Developer at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from the comfort of my home.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
 
 You can just say hello, read my content or see my previous work here:<br>
 [x] <a href="https://www.linkedin.com/in/nacholangdon/" target="_blank">👨‍💼LinkedIn</a>.<br>
