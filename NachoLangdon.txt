@@ -9,7 +9,7 @@
 ██║░╚███║██║░░██║╚█████╔╝██║░░██║╚█████╔╝██╗███████╗██║░░██║██║░╚███║╚██████╔╝██████╔╝╚█████╔╝██║░╚███║
 ╚═╝░░╚══╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═════╝░░╚════╝░╚═╝░░╚══╝</span><br>
 
-Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina. Currently working at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from the comfort of my home as a Senior Angular Developer.<br><br>
+Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina. Currently working at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from the comfort of my home as a <span id="b">Senior Angular Developer</span>.<br><br>
 My favorite code quote is: "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
 
 You can just say hello, read my content or see my previous work here:<br>
