@@ -4,7 +4,7 @@
 <p>Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina.<br />Right now I'm working as a Senior Angular Developer at <a href="https://arionkoder.com/">Arionkoder</a> remotely from Mar del Plata.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.</p>
 
 <p>You can say hello or see my previous work here:<br>
-[x] <a href="https://www.linkedin.com/in/nacholangdon/">Linkedin</a>.</p>
+[x] <a href="https://www.linkedin.com/in/nacholangdon/">👨‍💼Linkedin</a>.</p>
 
 <p>Feel free to send me an email at <a>nacholangdon[at]gmail.com</a>.<p>
 <p>Cheers!</p>
