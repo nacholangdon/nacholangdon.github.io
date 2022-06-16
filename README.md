@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# NachoLangdon.github.io
+Terminal based portfolio website for NachoLangdon
