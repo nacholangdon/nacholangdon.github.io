@@ -1,5 +1,5 @@
 <span id="a">nacho@langdon</span>:<span id="b">~</span><span id="c">$</span> cd NachoLangdon/About_Me
-<span id="a">nacho@langdon</span>:<span id="b">~</span><span id="c">$</span> cat nacholangdon.txt<br/><br/>
+<span id="a">nacho@langdon</span>:<span id="b">~</span><span id="c">$</span> cat nacholangdon.txt
 
 <p>Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina.<br />Right now I'm working as a Senior Angular Developer at <a href="https://arionkoder.com/">Arionkoder</a> remotely from Mar del Plata.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
 
