@@ -10,4 +10,4 @@ If you want to get in touch with me, please email me at <a>nacholangdon[at]gmail
 
 <p>Cheers!<p>
 
-<p><span id="a">nacho@langdon</span>:<span id="b">~/nacholangdon/about_me</span><span id="c">$</span> exit</p>
+<span id="a">nacho@langdon</span>:<span id="b">~/nacholangdon/about_me</span><span id="c">$</span> exit
