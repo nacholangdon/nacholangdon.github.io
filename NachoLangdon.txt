@@ -1,7 +1,7 @@
 <span id="a">nacho@langdon</span>:<span id="b">~</span><span id="c">$</span> cd nacholangdon/about_me
 <span id="a">nacho@langdon</span>:<span id="b">~/nacholangdon/about_me</span><span id="c">$</span> cat nacholangdon.txt
 
-<p>Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina.<br />Right now I'm working as a Senior Angular Developer at <a href="https://arionkoder.com/">Arionkoder</a> remotely from Mar del Plata.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
+<p>Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in Mar del Plata, Argentina.<br />Right now I'm working as a Senior Angular Developer at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from Mar del Plata.<br>My favorite code quote, "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
 
 You can say hello or see my previous work here:<br>
 [x] <a href="https://www.linkedin.com/in/nacholangdon/" target="_blank">👨‍💼Linkedin</a>.<br>
@@ -10,4 +10,4 @@ If you want to get in touch with me, please email me at <a>nacholangdon[at]gmail
 
 <p>Cheers!<p>
 
-<span id="a">nacho@langdon</span>:<span id="b">~/nacholangdon/about_me</span><span id="c">$</span> exit
+<p><span id="a">nacho@langdon</span>:<span id="b">~/nacholangdon/about_me</span><span id="c">$</span> exit</p>
