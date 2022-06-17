@@ -108,9 +108,11 @@ function t() {
   }
 }
 
-var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
-if (!isChrome){
-    $('#iframeAudio').remove()
-} else {
-    $('#playAudio').remove() // just to make sure that it will not have 2x audio in the background 
+var vAudio = document.getElementById("divAudio");
+var hasInit = false;
+function playMusic() {
+  if(!hasInit) {
+    hasInit = true;
+    vAudio.play();
+  }
 }
