@@ -108,11 +108,6 @@ function t() {
   }
 }
 
-var vAudio = document.getElementById("playAudio");
-var hasInit = false;
-function playMusic() {
-  if(!hasInit) {
-    hasInit = true;
-    vAudio.play();
-  }
+window.onload = function() {
+  var context = new AudioContext();
 }
