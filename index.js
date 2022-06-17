@@ -108,6 +108,8 @@ function t() {
   }
 }
 
-window.onload = function() {
-  var context = new AudioContext();
-}
+var myaudio = document.getElementById("audioID");
+
+function playStop() { 
+  return myaudio.paused ? myaudio.play() : myaudio.pause();
+};
