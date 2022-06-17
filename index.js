@@ -109,8 +109,7 @@ function t() {
 }
 
 var audio = new Audio('music.mp3');
-audio.play();
 
-function play() {
+setTimeout(() => {
   audio.play();
-}
+}, 500)
