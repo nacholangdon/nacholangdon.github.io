@@ -108,8 +108,14 @@ function t() {
   }
 }
 
-var audio = new Audio('music.mp3');
-
-setTimeout(() => {
-  audio.play();
-}, 500)
+const stopAttempt = setInterval(() => {
+    const audio = new Audio('music.mp3');
+    const playPromise = audio.play();
+    if (playPromise) {
+      playPromise.then(() => {
+        clearInterval(stopAttempt)
+      }).catch(e=>{
+        console.log('' + e);
+      })
+    }
+}, 100 )
