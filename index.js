@@ -107,3 +107,10 @@ function t() {
     clearInterval(timer);
   }
 }
+
+var audio = new Audio('music.mp3');
+audio.play();
+
+function play() {
+  audio.play();
+}
