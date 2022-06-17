@@ -10,8 +10,9 @@
     <script type="text/javascript" src="index.js"></script>
     <div id="console"></div> 
     </script>
-    <audio src="music.mp3" controls="" autoplay="autoplay">
-    Your browser does not support the audio element.
-    </audio>
+    <audio id="audioID" loop> <source src="music.mp3"  type="audio/mp3"></audio>
+    <script>
+    var myaudio = document.getElementById("audioID").autoplay = true;
+    </script>
   </body> 
 </html> 
