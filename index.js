@@ -108,7 +108,7 @@ function t() {
   }
 }
 
-var vAudio = document.getElementById("divAudio");
+var vAudio = document.getElementById("playAudio");
 var hasInit = false;
 function playMusic() {
   if(!hasInit) {
