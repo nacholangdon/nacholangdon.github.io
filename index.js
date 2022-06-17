@@ -111,10 +111,11 @@ function t() {
 var myaudio = document.getElementById("audioID");
 
 function playStop() { 
+  /*
   if (elem.innerText=="Play") {
     elem.innerText = "Stop";
   } else {
     elem.innerText = "Play";
-  }
+  }*/
   return myaudio.paused ? myaudio.play() : myaudio.pause();
 }
