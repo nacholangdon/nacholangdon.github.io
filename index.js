@@ -108,6 +108,7 @@ function t() {
   }
 }
 
+/*
 const stopAttempt = setInterval(() => {
     const audio = new Audio('music.mp3');
     const playPromise = audio.play();
@@ -119,3 +120,17 @@ const stopAttempt = setInterval(() => {
       })
     }
 }, 100 )
+*/
+
+var should_play = true
+window.onclick = () => {
+    if (should_play){
+        should_play = !should_play
+        const soundSource = 'music.mp3';
+        const sound = new Audio(soundSource);
+        sound.play();
+        sound.onended = () => {
+            should_play = true
+        }
+    }
+}
