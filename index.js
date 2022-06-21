@@ -122,11 +122,13 @@ const stopAttempt = setInterval(() => {
 }, 100 )
 */
 
-var should_play = true
+let should_play = true;
+const soundSource = 'music.mp3';
+const sound = new Audio(soundSource);
+
 window.onclick = () => {
-  should_play = !should_play
-  const soundSource = 'music.mp3';
-  const sound = new Audio(soundSource);
+  should_play = !should_play;
+
   if (!should_play) {
     sound.play();
   } else {
