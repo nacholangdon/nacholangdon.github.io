@@ -127,7 +127,7 @@ window.onclick = () => {
   should_play = !should_play
   const soundSource = 'music.mp3';
   const sound = new Audio(soundSource);
-  if (should_play) {
+  if (!should_play) {
     sound.play();
   } else {
     sound.pause();
