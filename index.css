@@ -16,6 +16,16 @@ body {
 	font-size:14px;
 }
 
+#footer {
+	font-family: courier, monospace;
+	position: absolute;
+	bottom: 10px;
+	width: 99%;
+	height: 20px;
+	color: dimgrey;
+	text-align: center;
+}
+
 a {
 	color: #0bc;
 	text-decoration: none;
