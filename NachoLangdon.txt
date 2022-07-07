@@ -14,7 +14,8 @@ My favorite code quote is: "<span id="k">Talk is cheap. Show me the code</span>"
 
 You can just say hello, read my content or see my previous work here:<br>
 [x] <a href="https://www.linkedin.com/in/nacholangdon/" target="_blank">👨‍💼LinkedIn</a>.<br>
-[x] <a href="https://arc.dev/@juanignaciolangdonsagasta" target="_blank">👨‍💼arc()</a>.<br>
+[x] <a href="https://arc.dev/@juanignaciolangdonsagasta" target="_blank">💼arc()</a>.<br>
+[x] <a href="https://g.dev/nacholangdon" target="_blank">🔎Google</a>.<br>
 
 If you want to get in touch with me, please email me at <a>nacholangdon[at]gmail.com</a>.<br>
 
