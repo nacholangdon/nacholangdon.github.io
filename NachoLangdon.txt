@@ -9,7 +9,7 @@
 ██║░╚███║██║░░██║╚█████╔╝██║░░██║╚█████╔╝██╗███████╗██║░░██║██║░╚███║╚██████╔╝██████╔╝╚█████╔╝██║░╚███║
 ╚═╝░░╚══╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═════╝░░╚════╝░╚═╝░░╚══╝</span><br>
 
-Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in <a href="https://www.google.com/maps/place/Mar+del+Plata,+Provincia+de+Buenos+Aires/@-38.0174106,-57.6705735,12z/data=!3m1!4b1!4m5!3m4!1s0x9584d94d19d34209:0xdd9670804bfed126!8m2!3d-38.0054771!4d-57.5426106" target="_blank">Mar del Plata, Argentina</a>. Currently working at <a href="https://arionkoder.com/" target="_blank">Arionkoder</a> remotely from the comfort of my home as a <span id="b">Senior Angular Developer</span>.<br><br>
+Hey There! I'm Juan Ignacio. Just call me Nacho. I'm a Frontend Developer based in <a href="https://www.google.com/maps/place/Mar+del+Plata,+Provincia+de+Buenos+Aires/@-38.0174106,-57.6705735,12z/data=!3m1!4b1!4m5!3m4!1s0x9584d94d19d34209:0xdd9670804bfed126!8m2!3d-38.0054771!4d-57.5426106" target="_blank">Mar del Plata, Argentina</a>. Currently working at <a href="https://magaya.com/" target="_blank">Magaya Corporation</a> remotely from the comfort of my home as a <span id="b">Senior Angular Developer</span>.<br><br>
 My favorite code quote is: "<span id="k">Talk is cheap. Show me the code</span>" by Linus Torvalds.<br>
 
 You can just say hello, read my content or see my previous work here:<br>
